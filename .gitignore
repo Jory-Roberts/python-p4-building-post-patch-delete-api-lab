@@ -49,6 +49,7 @@ jspm_packages
 
 # pytest cache
 .pytest_cache
+.vscode
 
 # *.db
 # */*.db
